@@ -1,4 +1,4 @@
-package tests;
+package ma.emsi.KhalidYoussef.tests;
 
 import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.model.googleai.GoogleAiGeminiChatModel;
